@@ -1,0 +1,18 @@
+.footer {
+    padding: 10px;
+    background-color: #0a0000;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.instagram-link {
+    color: #3897f0; 
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .instagram-link:hover {
+    text-decoration: underline;
+  }
